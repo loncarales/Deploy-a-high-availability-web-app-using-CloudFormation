@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Udagram"
+	},
+	{
+		"ParameterKey": "MachineImageId",
+		"ParameterValue": "ami-0a634ae95e11c6f91"
+    },
+    {
+        "ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
+    }
+]
